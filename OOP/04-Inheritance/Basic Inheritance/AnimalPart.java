@@ -1,4 +1,4 @@
-public class Animal {
+public class AnimalPart {
     String name;
 
     void eat() {
