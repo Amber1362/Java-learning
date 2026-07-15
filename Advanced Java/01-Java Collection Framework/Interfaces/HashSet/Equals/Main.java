@@ -6,7 +6,7 @@ public class Main {
         Student s2 = new Student("Amber", 101);
 
         System.out.println(s1.equals(s2));
-        System.out.println(s1git);
+        System.out.println(s1);
         System.out.println(s2);
     }
 } 
